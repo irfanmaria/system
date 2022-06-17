@@ -1,0 +1,1 @@
+insert into Alian values(1,"java","Maria");
